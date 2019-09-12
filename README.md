@@ -8,7 +8,8 @@ To build the image's dataset, we divided the background's image in  75\% for tra
 
 ## Example of picture
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/ricardobnjunior/Extended-Smartdoc-Dataset/master/images/SmartdocDataset2.png)
+
 
 ### Download 
 
