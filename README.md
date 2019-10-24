@@ -4,11 +4,11 @@ This repository introduces the dataset named Extended Smartdoc Dataset.
 
 The Extended Smartdoc Dataset is composed of the document's imagens presents at Smartdoc Dataset (http://www.cvc.uab.es/~marcal/pdfs/ICDAR15e.pdf) (that is: datasheet, letter, magazine, paper, patent, and tax). These documents were inserted over different backgrounds acquired from various smartphone's cameras with different colors, textures, lighting conditions and different resolutions. These backgrounds are the amount of 213 and represent several possible situations of real-world. Also, each document image was blended with some image background with a random rotation.
 
-To build the image's dataset, we divided the background's image in  75\% for training and 25\% for validation. So, the validation dataset not uses the same backgrounds used at the training dataset. Figure \ref{datasetSmartdoc2Example} shows an example of the images build for Extended Smartdoc Dataset.
+To build the image's dataset, we divided the background's image in  75\% for training and 25\% for validation. So, the validation dataset not uses the same backgrounds used at the training dataset. Figure bellow shows an example of the images build for Extended Smartdoc Dataset.
 
 ## Example of picture
 
-![alt text](https://raw.githubusercontent.com/ricardobnjunior/Extended-Smartdoc-Dataset/master/images/SmartdocDataset2.png)
+![Extended Smartdoc Dataset](https://raw.githubusercontent.com/ricardobnjunior/Extended-Smartdoc-Dataset/master/images/SmartdocDataset2.png?token=AENMRWXHEHEAQW43R5MIK6K5WGUXQ)
 
 
 ### Download 
