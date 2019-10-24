@@ -15,5 +15,6 @@ To build the image's dataset, we divided the background's image in  75\% for tra
 
 The Extended Smartdoc Dataset is a very large dataset, that's why we peovide the sample dataset, that is smaller, and you can download the Sample Dataset to verify if you wish to use the dataset in your research.
 
-Sample dataset: https://drive.google.com/file/d/1RhfZsyZL-x3Z70kgXOarVWvaiVpxeXFi/view?usp=sharing
+Sample dataset: https://drive.google.com/drive/folders/1G3xbBFrkNKKKnqlkGvDA4quG19rUmCnZ?usp=sharing
+
 Full dataset: https://drive.google.com/open?id=1VmT9mfD3A6DrmQAmEmtkvjBQbFQNS7WL
