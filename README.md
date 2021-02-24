@@ -3,6 +3,7 @@
 This repository introduces the dataset named Extended Smartdoc Dataset.
 
 The Extended Smartdoc Dataset was proposed in the article "HU-PageScan: a fully convolutional neural network for document page crop".
+
 ![Cick here](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2020.0532) to go to the article.
 
 The Extended Smartdoc Dataset is composed of the document's imagens presents at Smartdoc Dataset (http://www.cvc.uab.es/~marcal/pdfs/ICDAR15e.pdf) (that is: datasheet, letter, magazine, paper, patent, and tax). These documents were inserted over different backgrounds acquired from various smartphone's cameras with different colors, textures, lighting conditions and different resolutions. These backgrounds are the amount of 213 and represent several possible situations of real-world. Also, each document image was blended with some image background with a random rotation.
